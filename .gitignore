@@ -1,0 +1,33 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+/bin/
+/obj/
+
+# Ignore SQL Server database files
+*.mdf
+*.ldf
+*.sdf
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore logs and temporary files
+*.log
+*.bak
+*.cache
+
+# Ignore packages and dependencies
+/packages/
+/vendor/
+/node_modules/
+
+# Ignore application-specific files and directories
+/appconfig.json
+/secrets.json
+/appsettings.json
+db.lock
+ModuleDB.vb

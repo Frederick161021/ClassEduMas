@@ -1,0 +1,10 @@
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.vbprojAssemblyReference.cache
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.Resources.resources
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.vbproj.GenerateResource.cache
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.vbproj.CoreCompileInputs.cache
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\bin\Debug\ClassLibCursoEdu.dll
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\bin\Debug\ClassLibCursoEdu.pdb
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\bin\Debug\ClassLibCursoEdu.xml
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.dll
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.xml
+C:\Users\togae\source\repos\ClassLibCursoEdu\ClassLibCursoEdu\obj\Debug\ClassLibCursoEdu.pdb
